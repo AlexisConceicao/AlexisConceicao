@@ -1,13 +1,13 @@
 # Bem-vindo ao Meu Perfil GitHub! 👋
 
-Olá! Eu sou [Seu Nome], um(a) entusiasta da tecnologia apaixonado(a) por [área de interesse]. Este é o meu perfil GitHub, onde compartilho projetos pessoais, contribuições para projetos de código aberto e aprendizados diversos. Fique à vontade para explorar e me contatar se tiver alguma dúvida ou sugestão.
+Olá! Eu sou [Seu Nome], um(a) entusiasta da tecnologia apaixonado(a) por [área de interesse]. Este é o meu perfil GitHub, onde partilho projetos pessoais, contribuições para projetos de código aberto e aprendizagens diversas. Sinta-se à vontade para explorar e entrar em contacto comigo se tiver alguma dúvida ou sugestão.
 
 ## Sobre Mim
 
-- 🌱 Estou sempre aprendendo e buscando novos desafios.
-- 💻 Tenho experiência em [suas áreas de expertise].
-- 🎓 Estou graduado(a) em [sua área de estudo], com interesse especial em [tema específico].
-- 📫 Você pode me contatar pelo meu [site pessoal] ou [e-mail].
+- 🌱 Estou sempre a aprender e em busca de novos desafios.
+- 💻 Tenho experiência em [suas áreas de especialização].
+- 🎓 Sou licenciado(a) em [sua área de estudo], com interesse especial em [tema específico].
+- 📫 Pode entrar em contacto comigo através do meu [site pessoal] ou [e-mail].
 
 ## Linguagens e Ferramentas
 
@@ -15,7 +15,7 @@ Aqui estão algumas das linguagens e ferramentas com as quais estou familiarizad
 
 - Linguagens de Programação: [Lista de Linguagens]
 - Ferramentas e Frameworks: [Lista de Ferramentas]
-- Banco de Dados: [Lista de Bancos de Dados]
+- Base de Dados: [Lista de Bases de Dados]
 
 ## Estatísticas do GitHub
 
@@ -23,8 +23,8 @@ Aqui estão algumas das linguagens e ferramentas com as quais estou familiarizad
 
 ## Vamos Conectar!
 
-Se você se interessou pelo meu trabalho ou tem alguma pergunta, não hesite em me contatar. Vamos colaborar e aprender juntos!
+Se ficou interessado(a) no meu trabalho ou tem alguma questão, não hesite em entrar em contacto comigo. Vamos colaborar e aprender juntos!
 
-[LinkedIn](seu perfil do LinkedIn) 
+[LinkedIn](seu perfil do LinkedIn)
 
-Obrigado por visitar meu perfil GitHub! 😊
+Obrigado por visitar o meu perfil GitHub! 😊
