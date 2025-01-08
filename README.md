@@ -7,8 +7,5 @@ Olá! Eu sou Alexis Conceição, um entusiasta da tecnologia. Este é o meu perf
 - 💻 Tenho experiência em Front-end e Back-end.
 - 🎓 Sou estudante em Programação de Sistemas de Informação.
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true)
 
 Obrigado por visitar o meu perfil GitHub! 😊
